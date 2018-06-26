@@ -11,3 +11,5 @@ JWT_SECRET=SAMPLESECRET
 TOKEN_EXPIRES=86400
 CORS_ENABLE=true
 ```
+
+More instructions to come
